@@ -10,3 +10,26 @@ Portfolio Repository Access Link: [https://dharapm.github.io/portfolio/camm-text
 Professional Portfolio Self-Assessment Reflection
 Building this first artifact forced me to look at my engineering tasks through the eyes of an outside stakeholder. In daily optimization work, it is easy to get caught up in the pure mechanics of writing clean lookup functions or adjusting constraint variables. However, an executive audience does not just look at the code; they want to know how those technical decisions lower corporate risk, prevent supply delays, or protect project budgets.
 The biggest challenge during this process was finding the right balance between technical detail and high-level strategy. I resolved this by structuring the documentation into clear zones: leading with a direct executive summary of the business impact, followed by the specific technical steps and optimization workflows. This approach allows engineering leads to audit the technical validity of the model while giving business executives an immediate look at the project results. This practice has significantly improved my ability to market my skills, shifting my profile from a traditional data analyst to a strategic technology project manager.
+---
+
+## Artifact 3: Machine Learning Training Methods
+
+This artifact demonstrates my understanding of machine learning training methods, including supervised learning, unsupervised learning, reinforcement learning, model training, validation, data quality, and overfitting.
+
+The activity also demonstrates my ability to use an AI learning assistant critically while connecting machine learning theory with practical applications.
+
+### Skills Demonstrated
+
+- Supervised Learning
+- Unsupervised Learning
+- Reinforcement Learning
+- Model Training and Evaluation
+- Data Quality
+- Model Validation
+- Critical Thinking
+- AI-Assisted Problem Solving
+- Technical Communication
+
+### View the Complete Artifact
+
+[View Artifact 3: Machine Learning Training Methods](Artifact_3_Machine_Learning.md)
